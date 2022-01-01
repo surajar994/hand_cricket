@@ -1,14 +1,14 @@
-Matches=55
-Wins=33
-Loses=20
+Matches=112
+Wins=65
+Loses=45
 Tied=2
 
-Runs=1088
-Batting average=23
+Runs=2186
+Batting average=22
 Centuries=0
-Half Centuries=4
+Half Centuries=8
 
-Fours=62
-Sixes=80
+Fours=120
+Sixes=143
 
-High Score=82
+High Score=95
