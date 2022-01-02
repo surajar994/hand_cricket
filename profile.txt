@@ -12,3 +12,4 @@ Fours=120
 Sixes=143
 
 High Score=95
+Not Outs=14
