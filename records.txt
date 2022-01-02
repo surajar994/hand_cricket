@@ -110,3 +110,5 @@
 110|You* :3 2 6 5 2 6 3 1 5 4|Com : 1 5 3 3 3 3 3 3 3 2 6 0|You won
 111|You :2 6 1 4 2 6 1 5 3 5 2 6 3|Com : 0 4 0 6 5 0 0|Com lose by 31 runs
 112|You :2 3 5 2 6|Com : |Com lose by 18 runs
+113|You :3 6 2|Com : |Com lose by 11 runs
+114|You :3 1 6 6 2|Com : |Com lose by 18 runs

@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash
 
 . ./bat.sh
 . ./ball.sh
@@ -14,7 +14,8 @@ usr_runs=0
 usr_inn=()
 com_inn=()
 winner=""
-rcd="/data/data/com.termux/files/home/storage/scripts/handcricket/records.txt"
+loc=$(dirname $0)
+rcd="${loc}/records.txt"
 
 get_mtch_no
 prev_mtch_no=$?
@@ -65,4 +66,4 @@ else
 fi
 echo "$this_mtch|You :${usr_inn[@]}|Com : ${com_inn[@]}|$winner" >> $rcd
 
-update_profile
+update_profile "$this_mtch|You :${usr_inn[@]}|Com : ${com_inn[@]}|$winner"
